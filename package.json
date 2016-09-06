@@ -46,5 +46,6 @@
   },
   "homepage": "https://github.com/okoala/egg-webpack-hot-middleware#readme",
   "author": "Koala Huang<dapixp@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {}
 }
