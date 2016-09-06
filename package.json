@@ -1,6 +1,6 @@
 {
   "name": "egg-webpack-hot-middleware",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "egg webpack hot middleware",
   "eggPlugin": {
     "name": "webpackHotMiddleware"
